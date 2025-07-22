@@ -1,6 +1,6 @@
 ﻿-- ===========================================
 -- DATABASE: NIIEPay
--- Author: ChatGPT
+-- Author: PhongNguyen
 -- Description: Cấu trúc database cho Web API ngân hàng NIIEPay
 -- ===========================================
 
