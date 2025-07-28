@@ -27,12 +27,9 @@ Xây dựng ứng dụng ngân hàng NIIEPay với các chức năng sau:
 
 📌 **Yêu cầu bổ sung**:  
 Hãy **tự thiết kế database** đảm bảo lưu trữ đầy đủ các chức năng trên.
-
-📄 Tuyệt vời, Nguyễn! Dưới đây là phần nội dung được trình bày lại thành định dạng `README.md`, cực kỳ phù hợp để dùng cho project Web API NIIEPay — rõ ràng, chuyên nghiệp và dễ hiểu 👇:
-
 ---
 
-# 💳 NIIEPay – Banking Web API (Lab 07)
+# 💳 NIIEPay – Banking Web API 
 
 ## 📘 Mô tả đề bài
 
